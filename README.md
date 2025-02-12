@@ -1,6 +1,6 @@
 # Juliano Pasa
 
-** Bachelor in Computer Science ** 
+**Bachelor in Computer Science** 
 
 <!--
 **Juliano-Pasa/Juliano-Pasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
