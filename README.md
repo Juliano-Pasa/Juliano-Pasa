@@ -26,6 +26,10 @@ Nowadays I use OpenGL as a visualization tool for problems I'm trying to solve, 
 
 ### Proud Accomplishments
 
+- In 2024 I qualified to the ICPC Brazil National Finals programming contest step. This was very important to me as it was my last chance to participate in it, since I would graduate in the same year.
+To get there, me and my two teammates won the regional step, where we solved 6 out of the 12 problems. During the national finals, we achieved our objective of beating the best result our institution had so far
+by placing 38th and solving 4 out of the 12 problems.
+
 - In 2023 I published a [paper](https://www.scitepress.org/Link.aspx?doi=10.5220/0012129900003546) with two more colleagues about the usage of deep learning models within pathfinding algorithms in topographic terrains.
 The paper had the objective of finding a heuristic function that could precisely capture the terrain, and for that we resorted to deep neural networks. 
 Using the DNN as a heuristic function, we managed to achieve lower processing time and lower memory usage while finding paths very similar to the optimal path found by A*. 
@@ -36,9 +40,6 @@ The work investigated through machine learning and deep learning techniques the 
 of a previous worked that analyzed feelings of tweets. We reported that certain adjectives are more commonly present in viral tweets when compared to their synonyms, and that
 swaping between them could be a way of increasing the chances of a tweet having higher engagement.
 
-- In 2024 I qualified to the ICPC Brazil National Finals programming contest step. This was very important to me as it was my last chance to participate in it, since I would graduate in the same year.
-To get there, me and my two teammates won the regional step, where we solved 6 out of the 12 problems. During the national finals, we achieved our objective of beating the best result our institution had so far
-by placing 38th and solving 4 out of the 12 problems.
 
 <!--
 **Juliano-Pasa/Juliano-Pasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
