@@ -2,6 +2,9 @@
 
 **Bachelor in Computer Science** 
 
+I'm a recent graduate in CS looking for opportunities in Machine Learning and Backend Development! 
+During my grad years I've tackled many different problems, but the ones I loved the most doing were related to data science and machine learning engineering.
+
 <!--
 **Juliano-Pasa/Juliano-Pasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
