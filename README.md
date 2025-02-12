@@ -2,8 +2,15 @@
 
  ### **BSc. in Computer Science** 
 
-I'm a recent graduate in CS looking for opportunities in Machine Learning and Backend Development! 
-During my grad years I've tackled many different problems, but the ones I investigated the most were related to **data science** and **machine learning engineering**.
+I'm a recent graduate in CS looking for opportunities in Machine Learning and Backend Development!
+During my grad years I've tackled many different problems, but the ones I gained the most expertise were related to **data science** and **machine learning engineering**.
+I find these topics very important as they allowed me to find very meaningful insights to challenges I faced.
+I also learned a lot of **OpenGL** and developed a [small game](https://github.com/Juliano-Pasa/cga-demos/tree/main/demos/glsl40_toon) as one of my assignments. 
+Nowadays I use OpenGL as a visualization tool for problems I'm trying to solve, and occasionally try some game development techniques as a hobby.
+
+---
+
+### Proud Accomplishments
 
 In 2023 I published a [paper](https://www.scitepress.org/Link.aspx?doi=10.5220/0012129900003546) with two more colleagues about the usage of deep learning models within pathfinding algorithms in topographic terrains.
 The paper had the objective of finding a heuristic function that could precisely capture the terrain, and for that we resorted to deep neural networks. 
@@ -14,6 +21,10 @@ Earlier in 2021 I published a [paper](https://sol.sbc.org.br/index.php/erbd/arti
 The work investigated through machine learning and deep learning techniques the likelyhood of a tweet going viral based on the adjectives used. It was a continuation
 of a previous worked that analyzed feelings of tweets. We reported that certain adjectives are more commonly present in viral tweets when compared to their synonyms, and that
 swaping between them could be a way of increasing the chances of a tweet having higher engagement.
+
+In 2024 I qualified to the ICPC Brazil National Finals programming contest step. This was very important to me as it was my last chance to participate in it, since I would graduate in the same year.
+To get there, me and my two teammates won the regional step, where we solved 6 out of the 12 problems. During the national finals, we achieved our objective of beating the best result our institution had so far
+by placing 38th and solving 4 out of the 12 problems.
 
 <!--
 **Juliano-Pasa/Juliano-Pasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
