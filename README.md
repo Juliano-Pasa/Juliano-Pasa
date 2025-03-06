@@ -33,7 +33,7 @@ by placing 38th and solving 4 out of the 12 problems.
 - In 2023 I published a [paper](https://www.scitepress.org/Link.aspx?doi=10.5220/0012129900003546) with two more colleagues about the usage of deep learning models within pathfinding algorithms in topographic terrains.
 The paper had the objective of finding a heuristic function that could precisely capture the terrain, and for that we resorted to deep neural networks. 
 Using the DNN as a heuristic function, we managed to achieve lower processing time and lower memory usage while finding paths very similar to the optimal path found by A*. 
-We proved that DNNs are indeed capable of learning characteristics of multiple terrains at once and improving the performance of path finding algorithms.
+We proved that DNNs are indeed capable of learning characteristics of multiple terrains at once and improving the performance of path finding algorithms. The code used in this paper can be found [here](https://github.com/Henrique-Liesenfeld-Krever/Heuristic-NN-A-Star)
 
 - Earlier in 2021 I published a [paper](https://sol.sbc.org.br/index.php/erbd/article/view/17244) in a local conference about the importance of adjectives to the final engagement of a tweet.
 The work investigated through machine learning and deep learning techniques the likelyhood of a tweet going viral based on the adjectives used. It was a continuation
