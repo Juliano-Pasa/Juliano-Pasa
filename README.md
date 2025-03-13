@@ -2,10 +2,10 @@
 
  ### **BSc. in Computer Science** 
 
-I'm a recent graduate in CS looking for opportunities in Machine Learning and Backend Development!
-During my grad years I've tackled many different problems, but the ones I gained the most expertise were related to **data science** and **machine learning engineering**.
-I find these topics very important as they allowed me to find very meaningful insights to challenges I faced.
-I also learned a lot of **OpenGL** and developed a [small game](https://github.com/Juliano-Pasa/cga-demos/tree/main/demos/glsl40_toon) as one of my assignments. 
+I'm a graduate in CS with interest in Machine Learning and Game Development!
+During my grad years I've tackled many different problems, but the ones I gained the most expertise were related to **machine learning engineering** and **computer graphics**.
+I've always liked machine learning because I quickly noticed how powerful it could be to solve challenging problems and find insights of data.
+When it comes to game development, I learned a lot of **OpenGL** and developed a [small game](https://github.com/Juliano-Pasa/cga-demos/tree/main/demos/glsl40_toon) as one of my assignments. 
 Nowadays I use OpenGL as a visualization tool for problems I'm trying to solve, and occasionally try some game development techniques as a hobby.
 
 ---
