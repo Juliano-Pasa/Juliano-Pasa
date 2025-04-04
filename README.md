@@ -2,8 +2,8 @@
 
  ### **BSc. in Computer Science** 
 
-I'm a graduate in CS with interest in Machine Learning and Game Development!
-During my grad years I've tackled many different problems, but the ones I gained the most expertise were related to **machine learning engineering** and **computer graphics**.
+I'm a recently graduate in CS with interest in **Machine Learning** and **Game Development**!
+During my grad years I've tackled many different problems, but the ones I gained the most expertise were related to machine learning engineering and computer graphics.
 I've always liked machine learning because I quickly noticed how powerful it could be to solve challenging problems and find insights of data.
 When it comes to game development, I learned a lot of **OpenGL** and developed a [small game](https://github.com/Juliano-Pasa/cga-demos/tree/main/demos/glsl40_toon) as one of my assignments. 
 Nowadays I use OpenGL as a visualization tool for problems I'm trying to solve, and occasionally try some game development techniques as a hobby.
